@@ -1,0 +1,39 @@
+{
+  "polls": [
+    {
+      "id": 1,
+      "partyA": 0,
+      "partyB": 0,
+      "partyC": 0,
+      "partyD": 0
+    },
+    {
+      "id": 2,
+      "partyA": 0,
+      "partyB": 0,
+      "partyC": 0,
+      "partyD": 0
+    },
+    {
+      "id": 3,
+      "partyA": 0,
+      "partyB": 0,
+      "partyC": 0,
+      "partyD": 0
+    },
+    {
+      "id": 4,
+      "partyA": 0,
+      "partyB": 0,
+      "partyC": 0,
+      "partyD": 0
+    },
+    {
+      "id": 5,
+      "partyA": 0,
+      "partyB": 0,
+      "partyC": 0,
+      "partyD": 0
+    }
+  ]
+}
